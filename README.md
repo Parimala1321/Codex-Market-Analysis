@@ -5,8 +5,19 @@
 This Power BI project analyses 10,000 consumer survey responses across 10 Indian cities for the energy drink market. It covers demographics, consumer preferences, purchase behaviour, competition, marketing and CodeX performance, and turns the findings into practical recommendations.
 
 ## 🎯 Business Problem
+CodeX launched its energy drink in India. To evaluate its market reception, the Marketing team conducted a structured consumer survey and received around 10,000 responses from consumers across 10 cities.
 
-CodeX is a German beverage company that wants to enter the Indian energy drink market. It needs to know who the consumers are, what they want, which brands lead and what is stopping people from trying CodeX.
+## Objective
+
+Translate the primary survey data into a quantified view of consumer demographics, brand perception relative to competitors, where trial is converting versus stalling, and which specific product, pricing and marketing actions would move the metrics that matter.
+
+The analysis focuses on five broad questions:
+
+Who are the consumers, and where are they?
+What do consumers want from an energy drink?
+Where, when and why do they buy?
+How strong are the competing brands, and what drives brand choice?
+How is CodeX performing, and what is stopping people from trying it?
 
 ## 🗃️ Data Model
 
